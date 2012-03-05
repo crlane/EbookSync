@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 RSYNC=/usr/bin/rsync
 SSH=/usr/bin/ssh
